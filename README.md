@@ -20,3 +20,6 @@
 \end{document}
 ```
 
+## 訂正
+
+* p.383 `\usepackage{mathcomp}` を使えば `\text...` を `tc...` → `\usepackage{mathcomp}` を使えば `\text...` を `\tc...`
