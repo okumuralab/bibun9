@@ -33,5 +33,6 @@
 
 ## 訂正
 
+* p.229 KnuthのConcrete Mathematicsという本（付録F参照）← すみません、付録Fにありませんでした。
 * p.289 八登崇之さんの `bxghost` → 朝倉卓人さんの `bxghost`（八登さんのは `pxghost` で、これを拡張したものが朝倉さんの `bxghost` です。混乱してしまい、たいへん失礼しました）
 * p.383 `\usepackage{mathcomp}` を使えば `\text...` を `tc...` → `\usepackage{mathcomp}` を使えば `\text...` を `\tc...`
